@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Qabili
 Kabab
 Ashak
-=======
 Paterson
 Marriage Story
 Dunkirk
->>>>>>> movies
